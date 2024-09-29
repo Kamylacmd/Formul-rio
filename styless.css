@@ -1,0 +1,28 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+  }
+   
+  body{
+    background-color: white;
+  }
+  .container-login{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 10%;
+    height: 50%;
+  }
+  .register-form{
+    width: 50%;
+   
+    margin: 20px;
+    padding: 20px;
+    position: center;
+    background-color: #D9D9D9;
+    border-radius: 10px;
+  }
+  .register-form button{
+    justify-content: center;
+  }
